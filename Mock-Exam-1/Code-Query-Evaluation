@@ -1,0 +1,10 @@
+1. Identify and correct any errors
+- Missing comma between department_id and COUNT (*)
+- GROUP BY department_id; instead of department_name
+- remove limit 1 if you want results for all departments
+ -- avoid hard coding dates
+ -- consider using a stored procedure???
+ -- add indexing????
+
+
+
