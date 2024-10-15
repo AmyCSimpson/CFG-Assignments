@@ -1,0 +1,3 @@
+flask #APIs
+requests #'Front-end'
+mysql-connector-python #SQL engine (db_utils)
